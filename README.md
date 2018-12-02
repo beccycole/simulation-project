@@ -18,4 +18,4 @@ The above data will be collected (randomly generated) for 100 people at my place
 
 ## Repository
 
-This repository contains a jupyter notebook called simulation-project.ipynb. To run this notebook you must have [jupyter](http://jupyter.org/) installed on your machine. Jupyter comes pre-installed with the [Anaconda](https://www.anaconda.com/) python distribution package which I would advise you to install.
+This repository contains a jupyter notebook called Simulation-Project-2018.ipynb. To run this notebook you must have [jupyter](http://jupyter.org/) installed on your machine. Jupyter comes pre-installed with the [Anaconda](https://www.anaconda.com/) python distribution package which I would advise you to install.
