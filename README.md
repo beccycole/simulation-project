@@ -6,15 +6,15 @@ The aim of this project is to create a dataset by simulating a real-world phenom
 
 ## Data
 
-The dataset I will be simulating will include the following five variables:
+The Water Framework Directive (WFD) is a monitoring programme whereby one third of our major rivers are surveyed and assessed each year by the Environmental Protection Agency (EPA). Monitoring stations are placed at different XY spatial coordinates and samples are collected throughout the year to determine the quality of the water. A monitoring station at Knocknageragh Bridge, Templemore, Co. Tipperary was installed in February 2007 and to date 178 samples have been collected and analysed by the EPA laboratory in Kilkenny. The four variables that will be analysed from the samples collected will be level of ammonia, PH level, temperature and Total oxidised nitrogen.
 
-- Sex - male or female (categorical variable with two values male or female)
-- Smoker - yes or no (categorical variable with two values yes or no)
-- Exercise - hours per week (integers)
-- Resting heart beat - value between 40 and 120 (non zero positive integers)
-- Age - value between 18 and 65 (non zero positive integers)
-
-The above data will be collected (randomly generated) for 100 people at my place of work. I am interested to see if people's resting heart beat is lower if they exercise regularly and are a non-smoker. I believe a resting heart rate is not determined by your age but is dependent on your level of fitness and whether you smoke or not. I chose this project as I exercise in the gym 3 to 4 times a week, walk my dogs 7 days a week, I am a non-smoker and I have an average resting heart beat of 55 to 60 beats per minute. My investigation concluded that the more hours of exercise per week and not smoking resulted in a lower resting heart beat. 
+- River Name - (categorical variable with one value Suir River)
+- Station Name - (categorical variable with one value Knocknageragh Bridge)
+- Sample Date - (date range)
+- Ammonia - (non negative real numbers to two decimal places)
+- PH - (non negative real numbers to two decimal places)
+- Temperature - (non negative real numbers to two decimal places)
+- Total Oxidised Nitrogen - (non negative real numbers to two decimal places)
 
 ## Repository
 
